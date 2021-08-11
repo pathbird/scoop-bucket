@@ -1,12 +1,12 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pathbird/pbauthor/releases/download/v0.0.11/pbauthor_0.0.11_windows_amd64.tar.gz",
+            "url": "https://github.com/pathbird/pbauthor/releases/download/v0.0.12/pbauthor_0.0.12_windows_amd64.tar.gz",
             "bin": [
                 "pbauthor.exe"
             ],
-            "hash": "417bf0836907d507f7cd5a67785da3d5e9db2389c471783b0e9de54eb07883ae"
+            "hash": "b7b87b83de95a74e00f9b7944cfb54c8956aa4c009b9fbf9263ed0028ab104c7"
         }
     },
     "homepage": "https://pathbird.com/"
